@@ -1,6 +1,6 @@
 # Who am I?
 
-I'm Long, a junior Vietnamese general epidemiologist. I am particularly interested in epidemiologic methods for hospital-based studies, registry studies, and causal inference methods. I am also interested in biostatistical methods for these designs.
+I'm Long, a junior Vietnamese general epidemiologist. I was born in 1988 in Hanoi, Vietnam. I am particularly interested in epidemiologic methods for hospital-based studies, registry studies, and causal inference methods. I am also interested in biostatistical methods for these designs.
 
 # Education
 
