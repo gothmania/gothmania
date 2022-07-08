@@ -1,6 +1,6 @@
 # Who am I?
 
-I'm Long, a junior Vietnamese general epidemiologist. I was born in 1988 in Hanoi, Vietnam. I am particularly interested in epidemiologic methods for hospital-based studies, registry studies, and causal inference methods. I am also interested in biostatistical methods for these designs.
+I'm Long Hoang, a junior Vietnamese general epidemiologist. I was born in 1988 in Hanoi, Vietnam. I am particularly interested in epidemiologic methods for hospital-based studies, registry studies, and causal inference methods. I am also interested in biostatistical methods for these designs.
 
 # Education
 
@@ -17,3 +17,6 @@ I also teach a lot of classes and courses on introductory epidemiology and biost
 # Contact me
 
 Email: long.hoang@fulbrightmail.org
+LinkedIn: https://www.linkedin.com/in/gothmania
+YouTube: https://www.youtube.com/c/KonTrymNon
+SoundCloud: http://soundcloud.com/hoangbaolong (in case you want to hear me sing)
