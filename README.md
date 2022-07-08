@@ -16,7 +16,7 @@ I also teach a lot of classes and courses on introductory epidemiology and biost
 
 # Contact me
 
-Email: long.hoang@fulbrightmail.org
-LinkedIn: https://www.linkedin.com/in/gothmania
-YouTube: https://www.youtube.com/c/KonTrymNon
-SoundCloud: http://soundcloud.com/hoangbaolong (in case you want to hear me sing)
+* Email: long.hoang@fulbrightmail.org
+* LinkedIn: https://www.linkedin.com/in/gothmania
+* YouTube: https://www.youtube.com/c/KonTrymNon
+* SoundCloud: http://soundcloud.com/hoangbaolong (in case you want to hear me sing)
