@@ -18,5 +18,5 @@ I also teach a lot of classes and courses on introductory epidemiology and biost
 
 * Email: long.hoang@fulbrightmail.org
 * LinkedIn: https://www.linkedin.com/in/gothmania
-* YouTube: https://www.youtube.com/c/KonTrymNon
+* YouTube: https://www.youtube.com/c/KonTrymNon (short lectures on epidemiology and other utilities, all in Vietnamese)
 * SoundCloud: http://soundcloud.com/hoangbaolong (in case you want to hear me sing)
