@@ -14,9 +14,16 @@ I'm Long Hoang, a junior Vietnamese general epidemiologist. I was born in 1988 i
 
 I also teach a lot of classes and courses on introductory epidemiology and biostatistics, research ethics, and data management.
 
+## Training
+
+Visit some of my *free* learning materials.
+
+* [Python](https://github.com/gothmania/pytutor): A collection of tutorials in Vietnamese.
+
 # Contact me
 
 * Email: long.hoang@fulbrightmail.org
+* Website: https://www.gothmania.com/
 * LinkedIn: https://www.linkedin.com/in/gothmania
 * YouTube: https://www.youtube.com/c/KonTrymNon (short lectures on epidemiology and other utilities, all in Vietnamese)
 * SoundCloud: http://soundcloud.com/hoangbaolong (in case you want to hear me sing)
