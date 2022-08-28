@@ -19,6 +19,7 @@ I also teach a lot of classes and courses on introductory epidemiology and biost
 Visit some of my *free* learning materials.
 
 * [Python](https://github.com/gothmania/pytutor): A collection of tutorials in Vietnamese.
+* [Excel](https://github.com/gothmania/exceltutor): A collection of tutorials in Vietnamese.
 
 # Contact me
 
