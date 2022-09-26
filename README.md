@@ -20,6 +20,7 @@ Visit some of my *free* learning materials.
 
 * [Python](https://github.com/gothmania/pytutor): A collection of tutorials in Vietnamese.
 * [Excel](https://github.com/gothmania/exceltutor): A collection of tutorials in Vietnamese.
+* [Research ethics 101](https://courses.reach.edu.vn/courses/research-ethics-101): A short course on research ethics in Vietnamese.
 
 # Contact me
 
