@@ -29,4 +29,4 @@ Visit some of my *free* learning materials.
 * Website: https://www.gothmania.com/
 * LinkedIn: https://www.linkedin.com/in/gothmania
 * YouTube: https://www.youtube.com/@KonTrymNon (short lectures on epidemiology and other utilities, all in Vietnamese)
-* SoundCloud: http://soundcloud.com/hoangbaolong (in case you want to hear me sing)
+* SoundCloud: https://soundcloud.com/hoangbaolong (in case you want to hear me sing)
