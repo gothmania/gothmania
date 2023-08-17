@@ -1,6 +1,6 @@
 # Who am I?
 
-I'm Long Hoang, a junior Vietnamese general epidemiologist. I was born in 1988 in Hanoi, Vietnam. I am particularly interested in epidemiologic methods for hospital-based studies, registry studies, and causal inference methods. I am also interested in biostatistical methods for these designs.
+I'm Long Hoang, a junior Vietnamese general epidemiologist. I was born in 1988 in Hanoi, Vietnam. I am particularly interested in epidemiologic methods for hospital-based studies and registry studies. I am also interested in psychometric evaluation and latent variable modeling, longitudinal, multilevel, and survival analysis, and causal inference methods.
 
 # Education
 
@@ -9,7 +9,8 @@ I'm Long Hoang, a junior Vietnamese general epidemiologist. I was born in 1988 i
 
 # Work experience
 
-* 2018-present: Research manager - *Institute of Gastroenterology and Hepatology*, Hanoi, Vietnam
+* 2023-present: Data engineer - *VinUniversity*, Hanoi, Vietnam
+* 2018-present: Research manager, Epidemiologist - *Institute of Gastroenterology and Hepatology*, Hanoi, Vietnam
 * 2013-2019: Study doctor - *Oxford University Clinical Research Unit (OUCRU-VN)*, Hanoi, Vietnam
 
 I also teach a lot of classes and courses on introductory epidemiology and biostatistics, research ethics, and data management.
@@ -20,6 +21,7 @@ Visit some of my *free* learning materials.
 
 * [Python](https://github.com/gothmania/pytutor): A collection of tutorials in Vietnamese.
 * [Excel](https://github.com/gothmania/exceltutor): A collection of tutorials in Vietnamese.
+* [Word and PowerPoint](https://www.youtube.com/playlist?list=PLia_N2qlp_r_yI4Lphlj8xVOe5DCKG5oe): A collection of tutorials in Vietnamese.
 * [R](https://gothmania.github.io/rtutor): A collection of tutorials in Vietnamese.
 * [Research ethics 101](https://courses.reach.edu.vn/courses/research-ethics-101): A short course on research ethics in Vietnamese.
 
