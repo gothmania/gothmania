@@ -9,7 +9,7 @@ I'm Long Hoang, a junior Vietnamese general epidemiologist. I was born in 1988 i
 
 # Work experience
 
-* 2023-present: Data engineer - *VinUniversity*, Hanoi, Vietnam
+* 2023-present: Lecturer - *VinUniversity*, Hanoi, Vietnam
 * 2018-present: Research manager, Epidemiologist - *Institute of Gastroenterology and Hepatology*, Hanoi, Vietnam
 * 2013-2019: Study doctor - *Oxford University Clinical Research Unit (OUCRU-VN)*, Hanoi, Vietnam
 
